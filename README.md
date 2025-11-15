@@ -1,0 +1,2 @@
+# szakdoga
+szakdolgozat
