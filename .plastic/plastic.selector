@@ -1,0 +1,4 @@
+repository "My project (After cleanUp)/My project (After cleanUp)@7972361492795@cloud"
+  path "/"
+    br "/main"
+    co "/main"
